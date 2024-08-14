@@ -1,2 +1,4 @@
 # hello-world
-This repository (propio) is for practicing the GitHub Flow
+This repository is for practicing the GitHub Flow
+Updates will be put here for installation 
+  
